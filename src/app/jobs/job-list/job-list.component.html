@@ -1,0 +1,13 @@
+<mat-card *ngFor="let job of jobData['documents']"  >
+  <mat-card-title-group>
+    <mat-card-title>
+      <div [innerHTML]="job.title"></div>
+    </mat-card-title>
+    <mat-card-subtitle>{{job.company_name}}</mat-card-subtitle>
+    <img mat-card-sm-image src={{job.images[0].url}} >
+  </mat-card-title-group>
+
+  <mat-card-content routerLink="www.facebook.com">
+    {{job.place}}
+  </mat-card-content>
+</mat-card>
