@@ -1,0 +1,5 @@
+
+
+Improvements
+- preview field of json object as hoover info
+- klick effect on job cards
