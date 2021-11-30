@@ -1,0 +1,3434 @@
+{
+  "start": 0,
+  "rows": 20,
+  "num_pages": 8,
+  "current_page": 1,
+  "documents": [
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10840751/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10840751/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10840751/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/206",
+                  "lvl_1": 206
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/206",
+                  "lvl_1": 206
+              }
+          ],
+          "company_visible": true,
+          "age": 3,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10840751-leitender-monteur-m-w-photovoltaikmontage",
+          "company_slug": "118483-energiewendegenossenschaft",
+          "tags": [
+              {
+                  "type": "employment_grade",
+                  "value_min": 70,
+                  "value_max": 90
+              }
+          ],
+          "job_id": "10840751",
+          "datapool_id": "bc0cf386-1874-4b18-8335-9bb47b54d26a",
+          "title": "Leitender <em>Monteur</em> (m/w) Photovoltaikmontage",
+          "preview": "Wir suchen einen Leitenden Monteur(m/w) 70% bis 90% für die Montage von Solaranlagen. Per März 2022 oder nach Absprache auch schon vorher.",
+          "company_name": "Energiewendegenossenschaft",
+          "company_id": "118483",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 210,
+                  "position": 2
+              },
+              {
+                  "profession": 208,
+                  "position": 2
+              }
+          ],
+          "publication_date": "2021-11-24T15:04:34+01:00",
+          "initial_publication_date": "2021-11-24T15:05:51+01:00",
+          "place": "Kanton Bern",
+          "company_logo_file": "248x88.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              70,
+              75,
+              80,
+              85,
+              90
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 37414,
+          "offer_id": 42,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/fa60e635-ee1d-4174-ba72-3ae94a5cb4e8/248x88.png",
+                  "updated": "2021-11-25T11:09:49+01:00",
+                  "file_name": "248x88.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10715809/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10715809/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10715809/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              }
+          ],
+          "company_visible": true,
+          "age": 21,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10715809-monteur-m-w",
+          "company_slug": "813-haag-streit-ag",
+          "tags": [],
+          "job_id": "10715809",
+          "datapool_id": "16631397-bf7b-4a89-98a2-7cbb6c737008",
+          "title": "<em>Monteur</em> m/w",
+          "preview": "Spitzentechnologie in der Medizintechnik. See closer. Look further. \nHaag-Streit hat sich dank ihrer hochqualitativen Präzisionsinstrumente in der ...",
+          "company_name": "Haag-Streit AG",
+          "company_id": "813",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [
+              {
+                  "profession": 200,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-06T03:00:00+01:00",
+          "initial_publication_date": "2021-11-05T06:00:00+01:00",
+          "place": "Köniz",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 3,
+          "offer_id": 39,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.41495,
+              "lat": 46.9266
+          },
+          "is_paid": true,
+          "source_hostname": "haag-streit.com",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/aef5456b-4709-434f-ae66-d2549ca6961d/124x44.png",
+                  "updated": "2021-11-06T03:23:59+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10820539/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10820539/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10820539/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              }
+          ],
+          "company_visible": true,
+          "age": 11,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 12,
+                  "lvl_2": 0,
+                  "path": "/2/12"
+              },
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10820539-monteur-komplexe-system-und-baugruppen-m-w-d-100",
+          "company_slug": "16380-schneeberger",
+          "tags": [],
+          "job_id": "10820539",
+          "datapool_id": "50dc6e83-b44e-468c-86f1-526781653e20",
+          "title": "<em>Monteur</em> komplexe System- und Baugruppen (m/w/d) 100 %",
+          "preview": "In unserem Geschäftsbereich Systeme suchen wir für die Abteilung Montage Verstärkung eine/n",
+          "company_name": "Schneeberger",
+          "company_id": "16380",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 200,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-16T18:31:42+01:00",
+          "initial_publication_date": "2021-11-16T18:35:48+01:00",
+          "place": "Roggwil",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 3,
+          "offer_id": 39,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.818545787024601,
+              "lat": 47.23664230117418
+          },
+          "is_paid": true,
+          "source_hostname": "refline.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/abc8302c-60c1-4ce6-a617-70d267372c2c/124x44.png",
+                  "updated": "2021-11-16T18:36:55+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10819149/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10819149/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10819149/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/195",
+                  "lvl_1": 195
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/195",
+                  "lvl_1": 195
+              }
+          ],
+          "company_visible": true,
+          "age": 11,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 0,
+                  "lvl_2": 0,
+                  "path": "/2"
+              },
+              {
+                  "lvl_0": 3,
+                  "lvl_1": 0,
+                  "lvl_2": 0,
+                  "path": "/3"
+              }
+          ],
+          "slug": "10819149-monteur-und-servicemonteur",
+          "company_slug": "118589-wirtech-ag",
+          "tags": [],
+          "job_id": "10819149",
+          "datapool_id": "b790a6e2-5b86-4a3e-901d-490d62282e6c",
+          "title": "<em>Monteur</em> und Servicemonteur",
+          "preview": " Ihre Aufgaben:Maschinen- und Stahlbaumontagen, Rohrleitungsbau und LüftungstechnikRevisionsarbeiten an Anlagen und MaschinenNach Einarbeitung und ...",
+          "company_name": "Wirtech AG",
+          "company_id": "118589",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [
+              {
+                  "profession": 195,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-16T11:04:45+01:00",
+          "initial_publication_date": "2021-11-16T11:05:46+01:00",
+          "place": "Uetendorf",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.5745844443111165,
+              "lat": 46.77496605619822
+          },
+          "is_paid": true,
+          "images": []
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10832608/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10832608/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10832608/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/207",
+                  "lvl_1": 207
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/207",
+                  "lvl_1": 207
+              }
+          ],
+          "company_visible": true,
+          "age": 5,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10832608-montage-fachmann-energie-mobilitaet-w-m",
+          "company_slug": "3294-arnold-ag",
+          "tags": [
+              {
+                  "type": "employment_grade",
+                  "value_min": 80,
+                  "value_max": 100
+              }
+          ],
+          "job_id": "10832608",
+          "datapool_id": "1a22a92f-d890-45d9-9b5e-8499ee0baa12",
+          "title": "<em>Montage Fachmann</em> Energie & Mobilität (w/m)",
+          "preview": "abwechslungsreicher Arbeitsalltag",
+          "company_name": "Arnold AG",
+          "company_id": "3294",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 207,
+                  "position": 3
+              },
+              {
+                  "profession": 215,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-22T04:02:17+01:00",
+          "initial_publication_date": "2021-11-22T04:06:01+01:00",
+          "place": "Uetendorf",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              80,
+              85,
+              90,
+              95,
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 52606,
+          "offer_id": 39,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.5745844443111165,
+              "lat": 46.77496605619822
+          },
+          "is_paid": true,
+          "source_hostname": "prospective.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/38ef573c-cc82-42af-8794-2542fce18906/124x44.png",
+                  "updated": "2021-11-22T06:37:26+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10775868/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10775868/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10775868/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              }
+          ],
+          "company_visible": true,
+          "age": 29,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10775868-mitarbeiter-montage",
+          "company_slug": "83828-elektromotorenwerk-brienz-ag",
+          "tags": [],
+          "job_id": "10775868",
+          "datapool_id": "c0941c00-8d6b-40e1-b2b9-b1888ab94e23",
+          "title": "<em>Mitarbeiter Montage</em>",
+          "preview": "Ihr VerantwortungsbereichMontage- und Prüfarbeiten sämtlicher in Eigenfabrikation hergestellter AntriebeModifikations- und Prüfarbeiten ...",
+          "company_name": "Elektromotorenwerk Brienz AG",
+          "company_id": "83828",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [],
+          "work_experience": [
+              {
+                  "profession": 215,
+                  "position": 2
+              }
+          ],
+          "publication_date": "2021-10-29T16:04:18+02:00",
+          "initial_publication_date": "2021-10-29T16:05:50+02:00",
+          "place": "Brienz",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 52606,
+          "offer_id": 40,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 8.05566597787194,
+              "lat": 46.77109003749421
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/7e97b945-fab0-4a3e-a8f2-175f6eb68ea4/124x44.png",
+                  "updated": "2021-10-29T16:20:58+02:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10808626/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10808626/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10808626/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              }
+          ],
+          "company_visible": true,
+          "age": 16,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              },
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 14,
+                  "lvl_2": 0,
+                  "path": "/2/14"
+              }
+          ],
+          "slug": "10808626-monteur-in-100",
+          "company_slug": "11859-carlo-bernasconi-ag",
+          "tags": [],
+          "job_id": "10808626",
+          "datapool_id": "4e9441eb-b653-42f7-a27c-8750b871eb51",
+          "title": "<em>Monteur</em>/in (100%)",
+          "preview": "Zu Ihren Aufgaben gehören- Liefern und Montieren von Küchenabdeckungen- Ausführen von diversen Regiearbeiten- Massaufnahmen am Bau.",
+          "company_name": "Carlo Bernasconi AG",
+          "company_id": "11859",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [],
+          "work_experience": [],
+          "publication_date": "2021-11-11T16:01:40+01:00",
+          "initial_publication_date": "2021-11-11T16:05:37+01:00",
+          "place": "Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.38383,
+              "lat": 46.9463
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/9b0ca9e4-6808-4773-9b4f-03aab4de3239/124x44.png",
+                  "updated": "2021-11-15T07:20:57+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10820494/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10820494/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10820494/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/210",
+                  "lvl_1": 210
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/210",
+                  "lvl_1": 210
+              }
+          ],
+          "company_visible": true,
+          "age": 11,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              },
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 12,
+                  "lvl_2": 0,
+                  "path": "/2/12"
+              }
+          ],
+          "slug": "10820494-mitarbeiterin-externe-montage",
+          "company_slug": "2419-novex-ag",
+          "tags": [],
+          "job_id": "10820494",
+          "datapool_id": "46818c0d-a53b-437d-977c-15cb3fa11b86",
+          "title": "MitarbeiterIn externe Montage",
+          "preview": "Aufgrund der positiven Auftragsentwicklung und der erfolgreichen Integration der Möbelproduktion der schweizweit bekannten Marke Bigla Office ...",
+          "company_name": "NOVEX AG",
+          "company_id": "2419",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 2,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 210,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-16T18:04:17+01:00",
+          "initial_publication_date": "2021-11-16T18:05:41+01:00",
+          "place": "Huttwil",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.854693244966038,
+              "lat": 47.109763530233906
+          },
+          "is_paid": true,
+          "source_hostname": "abacuscity.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/48595c3b-c07a-454c-b9a8-c5d8a0dc94eb/124x44.png",
+                  "updated": "2021-11-16T18:06:18+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10794046/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10794046/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10794046/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              }
+          ],
+          "company_visible": true,
+          "age": 22,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10794046-mitarbeiter-in-montage-operationstische-und-stellvertretung-service-schweiz",
+          "company_slug": "25079-schaerer-medical-ag",
+          "tags": [
+              {
+                  "type": "employment_grade",
+                  "value_min": 80,
+                  "value_max": 100
+              }
+          ],
+          "job_id": "10794046",
+          "datapool_id": "6d88f832-e109-4aeb-9e77-4c7556b01fa1",
+          "title": "Mitarbeiter/in Montage Operationstische und Stellvertretung Service Schweiz",
+          "preview": "Zu Ihren Aufgaben gehören das Vormontieren, Montieren, Revidieren und Prüfen von Operationstischen und deren Zubehör. ",
+          "company_name": "Schaerer Medical AG",
+          "company_id": "25079",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [],
+          "publication_date": "2021-11-05T16:32:15+01:00",
+          "initial_publication_date": "2021-11-05T16:35:57+01:00",
+          "place": "Münsingen",
+          "company_logo_file": "123x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              80,
+              85,
+              90,
+              95,
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": false,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.560725229194214,
+              "lat": 46.876065567222994
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/4caf6e38-e921-402d-b8ff-0d2a387b9f07/123x44.png",
+                  "updated": "2021-11-05T16:37:07+01:00",
+                  "file_name": "123x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10795424/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10795424/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10795424/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/201",
+                  "lvl_1": 201
+              },
+              {
+                  "lvl_0": 111,
+                  "path": "/98/111/217",
+                  "lvl_1": 217
+              },
+              {
+                  "lvl_0": 111,
+                  "path": "/98/111/217",
+                  "lvl_1": 217
+              }
+          ],
+          "company_visible": true,
+          "age": 21,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 0,
+                  "lvl_2": 0,
+                  "path": "/2"
+              }
+          ],
+          "slug": "10795424-monteur-servicetechniker-m-w",
+          "company_slug": "30437-swiss-automotive-group-ag",
+          "tags": [],
+          "job_id": "10795424",
+          "datapool_id": "1ed114b2-a20b-4bc9-b3ea-e99aa28fe210",
+          "title": "<em>Monteur</em> / Servicetechniker (m/w)",
+          "preview": "In dieser vielseitigen Funktion montieren, reparieren und warten Sie selbständig Garageneinrichtungen sowie Klima-Servicestationen.",
+          "company_name": "SWISS AUTOMOTIVE GROUP AG",
+          "company_id": "30437",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 201,
+                  "position": 3
+              },
+              {
+                  "profession": 217,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-06T05:02:33+01:00",
+          "initial_publication_date": "2021-11-06T05:05:56+01:00",
+          "place": "Bern / Dietlikon",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "is_paid": true,
+          "source_hostname": "prospective.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/906b48e8-6a32-4b8c-8697-2c97983e7595/124x44.png",
+                  "updated": "2021-11-06T07:16:56+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10846375/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10846375/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10846375/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/201",
+                  "lvl_1": 201
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/201",
+                  "lvl_1": 201
+              }
+          ],
+          "company_visible": true,
+          "age": 1,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10846375-wir-suchen-eine-n-mitarbeiter-in-montage-mit-stellvertretung-im-service",
+          "company_slug": "29974-universal-job-ag-bern",
+          "tags": [],
+          "job_id": "10846375",
+          "datapool_id": "75eb074f-3726-4c06-a9ce-788619c5cc79",
+          "title": "Wir suchen eine/n Mitarbeiter/in Montage mit Stellvertretung im Service",
+          "preview": "Sind Sie eine Persönlichkeit, die gerne mit anpackt?",
+          "company_name": "Universal-Job AG, Bern",
+          "company_id": "29974",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              },
+              {
+                  "level": 1,
+                  "language": "fr"
+              },
+              {
+                  "level": 1,
+                  "language": "en"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 200,
+                  "position": 2
+              },
+              {
+                  "profession": 201,
+                  "position": 2
+              }
+          ],
+          "publication_date": "2021-11-26T12:02:44+01:00",
+          "initial_publication_date": "2021-11-26T12:05:52+01:00",
+          "place": "Region Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "pdl",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 37414,
+          "offer_id": 39,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/24c7ba54-742f-4c17-9af3-e64641e5eb0d/124x44.png",
+                  "updated": "2021-11-26T12:06:05+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10816521/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10816521/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10816521/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              }
+          ],
+          "company_visible": true,
+          "age": 12,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 7,
+                  "lvl_2": 0,
+                  "path": "/2/7"
+              },
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 12,
+                  "lvl_2": 0,
+                  "path": "/2/12"
+              }
+          ],
+          "slug": "10816521-monteur-fuer-medizinische-gasversorgungssysteme-m-w-d-bg-100",
+          "company_slug": "49828-draeger-schweiz-ag",
+          "tags": [],
+          "job_id": "10816521",
+          "datapool_id": "d9e5425d-5279-4519-87c6-236a29cca1c3",
+          "title": "<em>Monteur</em> für medizinische Gasversorgungssysteme (m/w/d) - BG 100%",
+          "preview": "Ihr EinsatzortSie arbeiten bei den Kunden vor Ort in der ganzen Schweiz. Ihr Wohnort befindet sich idealerweise in der Region Zürich / Aargau.Die ...",
+          "company_name": "Dräger Schweiz AG",
+          "company_id": "49828",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [],
+          "publication_date": "2021-11-15T15:32:54+01:00",
+          "initial_publication_date": "2021-11-15T15:35:49+01:00",
+          "place": "Liebefeld",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 3,
+          "offer_id": 40,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": false,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.419737650633717,
+              "lat": 46.93032994062827
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/075b40e1-6939-461e-823c-c53d07d17398/124x44.png",
+                  "updated": "2021-11-15T15:36:48+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10809974/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10809974/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10809974/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/212",
+                  "lvl_1": 212
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/212",
+                  "lvl_1": 212
+              }
+          ],
+          "company_visible": true,
+          "age": 15,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10809974-monteur-kleinspueler",
+          "company_slug": "43920-rohrmax-ag",
+          "tags": [],
+          "job_id": "10809974",
+          "datapool_id": "f4fbd1fc-353e-4119-8b62-b441c5acc294",
+          "title": "<em>Monteur</em> Kleinspüler",
+          "preview": "Die RohrMax AG, seit über 45 Jahren bekannt für Rohrreinigung und Prävention im Bereich Abwassersysteme, ist ein erfolgreiches, innovatives ...",
+          "company_name": "RohrMax AG",
+          "company_id": "43920",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 2,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 212,
+                  "position": 3
+              },
+              {
+                  "profession": 216,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-12T07:32:54+01:00",
+          "initial_publication_date": "2021-11-12T07:35:54+01:00",
+          "place": "Kanton Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "is_paid": true,
+          "source_hostname": "rohrmax.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/ad44f3cd-f7ff-414e-b3d7-763906fff4ff/124x44.png",
+                  "updated": "2021-11-12T10:25:04+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10785804/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10785804/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10785804/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              }
+          ],
+          "company_visible": true,
+          "age": 24,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 0,
+                  "lvl_2": 0,
+                  "path": "/2"
+              }
+          ],
+          "slug": "10785804-monteur-storenmonteur-m-w-100",
+          "company_slug": "22502-nyffenegger-storenfabrik-ag",
+          "tags": [],
+          "job_id": "10785804",
+          "datapool_id": "35c7bdd3-3895-4c02-bdc2-4503d76c200b",
+          "title": "<em>Monteur</em> / Storenmonteur (m/w), 100%",
+          "preview": "Wir sind ein erfolgreiches und dynamisches KMU in Huttwil mit rund 75 Mitarbeitenden sowie 3 Lernenden und behaupten uns seit mehr als 40 Jahren erfol",
+          "company_name": "Nyffenegger Storenfabrik AG",
+          "company_id": "22502",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 4,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [],
+          "publication_date": "2021-11-03T09:02:27+01:00",
+          "initial_publication_date": "2021-11-03T09:06:24+01:00",
+          "place": "Huttwil",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.854693244966038,
+              "lat": 47.109763530233906
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/3edaf608-10a7-4238-87a3-8474a0657e3a/124x44.png",
+                  "updated": "2021-11-03T09:07:21+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10834232/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10834232/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10834232/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/207",
+                  "lvl_1": 207
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/210",
+                  "lvl_1": 210
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/210",
+                  "lvl_1": 210
+              }
+          ],
+          "company_visible": true,
+          "age": 5,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10834232-monteur-chauffeur-event-logistik-100",
+          "company_slug": "52022-top-events-schweiz-ag",
+          "tags": [],
+          "job_id": "10834232",
+          "datapool_id": "33203a5f-289f-40d3-af41-7e33b6e011ca",
+          "title": "<em>Monteur</em> / Chauffeur Event Logistik (100%)",
+          "preview": "Montage und Demontage von Zelten, Bühnen und Tribünen; Auf- und Abbau von Eventmobiliar; Lieferungen und Abholungen von Eventmaterial.",
+          "company_name": "Top Events Schweiz AG",
+          "company_id": "52022",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              },
+              {
+                  "level": 2,
+                  "language": "fr"
+              },
+              {
+                  "level": 2,
+                  "language": "en"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 207,
+                  "position": 3
+              },
+              {
+                  "profession": 210,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-22T15:02:51+01:00",
+          "initial_publication_date": "2021-11-22T15:05:55+01:00",
+          "place": "Rüdtligen",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.566089113434717,
+              "lat": 47.08551362900687
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/db5c31ff-93a2-41a2-853a-19dd56d29289/124x44.png",
+                  "updated": "2021-11-22T15:06:24+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10847577/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10847577/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10847577/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/201",
+                  "lvl_1": 201
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/216",
+                  "lvl_1": 216
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/216",
+                  "lvl_1": 216
+              }
+          ],
+          "company_visible": true,
+          "age": 1,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10847577-heizungsmonteur-sanitaermonteur-monteur",
+          "company_slug": "39792-brevag-ag",
+          "tags": [],
+          "job_id": "10847577",
+          "datapool_id": "cdd55172-a643-4b9b-84f2-ae585e60e5c0",
+          "title": "Heizungsmonteur / Sanitärmonteur / <em>Monteur</em>",
+          "preview": "Gehören Sie zu den Besten in Ihrem Arbeitsbereich? Bewerben Sie sich! Wir suchen per sofort einen Heizungsmonteur / Sanitärmonteur / Monteur",
+          "company_name": "BREVAG AG",
+          "company_id": "39792",
+          "education_ids": [],
+          "language_skills": [
+              {
+                  "level": 2,
+                  "language": "de"
+              },
+              {
+                  "level": 1,
+                  "language": "fr"
+              }
+          ],
+          "work_experience": [],
+          "publication_date": "2021-11-26T17:02:25+01:00",
+          "initial_publication_date": "2021-11-26T17:05:55+01:00",
+          "place": "Frauenkappelen",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "kmu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.332134819620189,
+              "lat": 46.95564001133313
+          },
+          "is_paid": true,
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/d31700ba-4244-48f5-94dd-63034099af3d/124x44.png",
+                  "updated": "2021-11-26T17:06:39+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10847259/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10847259/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10847259/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/195",
+                  "lvl_1": 195
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/195",
+                  "lvl_1": 195
+              }
+          ],
+          "company_visible": true,
+          "age": 1,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10847259-elektroinstallateur-in-oder-solarteur-in-80-100",
+          "company_slug": "41698-express-personal-ag",
+          "tags": [],
+          "job_id": "10847259",
+          "datapool_id": "3295172c-0905-4fc1-8d00-0ec5670d7c44",
+          "title": "Elektroinstallateur/in oder Solarteur/in 80-100%",
+          "preview": "Erfahrungen als Elektroinstallateur oder <em>Monteur</em>\nkommunikative und marktorientierte Persönlichkeit",
+          "company_name": "EXPRESS PERSONAL AG",
+          "company_id": "41698",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 2,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 215,
+                  "position": 3
+              },
+              {
+                  "profession": 195,
+                  "position": 3
+              }
+          ],
+          "publication_date": "2021-11-26T16:02:27+01:00",
+          "initial_publication_date": "2021-11-26T16:05:53+01:00",
+          "place": "Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "pdl",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "1",
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "is_paid": true,
+          "source_hostname": "expresspersonal.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/fe814aef-7ce8-4225-93cc-e524358063f9/124x44.png",
+                  "updated": "2021-11-26T16:06:12+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10844194/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10844194/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10844194/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/215",
+                  "lvl_1": 215
+              }
+          ],
+          "company_visible": true,
+          "age": 2,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10844194-bauleitende-r-monteur-in-elektro",
+          "company_slug": "20439-bouygues-e-s-intec-schweiz-ag",
+          "tags": [],
+          "job_id": "10844194",
+          "datapool_id": "92ebaa05-04e3-4395-9c8c-7ddff68a7497",
+          "title": "Bauleitende*r <em>Monteur</em>*in Elektro",
+          "preview": "Stromer gesucht in Bern! Sei unsere Verstärkung!",
+          "company_name": "Bouygues E&S InTec Schweiz AG",
+          "company_id": "20439",
+          "education_ids": [
+              2
+          ],
+          "language_skills": [
+              {
+                  "level": 3,
+                  "language": "de"
+              }
+          ],
+          "work_experience": [
+              {
+                  "profession": 215,
+                  "position": 2
+              }
+          ],
+          "publication_date": "2021-11-25T16:32:01+01:00",
+          "initial_publication_date": "2021-11-25T16:35:51+01:00",
+          "place": "Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              2
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": true,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.4841622882529295,
+              "lat": 46.93966102476688
+          },
+          "is_paid": true,
+          "source_hostname": "prospective.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/c1a2a981-515d-43d9-9b50-d35c6a61c797/124x44.png",
+                  "updated": "2021-11-25T16:36:28+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10802496/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10802496/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10802496/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              },
+              {
+                  "lvl_0": 109,
+                  "path": "/98/109/200",
+                  "lvl_1": 200
+              }
+          ],
+          "company_visible": true,
+          "age": 18,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 15,
+                  "lvl_2": 0,
+                  "path": "/2/15"
+              }
+          ],
+          "slug": "10802496-mechaniker-monteur-monorack-m-w",
+          "company_slug": "836-garaventa-ag",
+          "tags": [],
+          "job_id": "10802496",
+          "datapool_id": "1deec1d9-5268-4d66-acca-ffda81ec75e4",
+          "title": "Mechaniker / <em>Monteur</em> Monorack (m/w)",
+          "preview": "Garaventa ist im nationalen und internationalen Seilbahnmarkt Prädikat für Schweizer Präzision und Kompetenz. 380 qualifizierte Mitarbeitende sind ...",
+          "company_name": "Garaventa AG",
+          "company_id": "836",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [],
+          "publication_date": "2021-11-09T16:01:27+01:00",
+          "initial_publication_date": "2021-11-09T16:05:46+01:00",
+          "place": "Uetendorf / Thun",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 38,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": false,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.5745844443111165,
+              "lat": 46.77496605619822
+          },
+          "is_paid": true,
+          "source_hostname": "dvinci-hr.com",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/1aa1cff2-c5f7-4bab-9928-1a0f856099b2/124x44.png",
+                  "updated": "2021-11-09T16:06:31+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      },
+      {
+          "_links": {
+              "detail_de": {
+                  "href": "https://www.jobs.ch/de/stellenangebote/detail/10585645/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_fr": {
+                  "href": "https://www.jobs.ch/fr/offres-emplois/detail/10585645/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              },
+              "detail_en": {
+                  "href": "https://www.jobs.ch/en/vacancies/detail/10585645/",
+                  "templated": false,
+                  "methods": [
+                      "GET"
+                  ]
+              }
+          },
+          "categories": [
+              {
+                  "lvl_0": 108,
+                  "path": "/98/108/191",
+                  "lvl_1": 191
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/216",
+                  "lvl_1": 216
+              },
+              {
+                  "lvl_0": 110,
+                  "path": "/98/110/216",
+                  "lvl_1": 216
+              }
+          ],
+          "company_visible": true,
+          "age": 12,
+          "regions": [
+              {
+                  "lvl_0": 2,
+                  "lvl_1": 13,
+                  "lvl_2": 0,
+                  "path": "/2/13"
+              }
+          ],
+          "slug": "10585645-chefmonteur-a-oder-bauleitender-monteur-sanitaer-a-100",
+          "company_slug": "10229-engie-services-ag",
+          "tags": [],
+          "job_id": "10585645",
+          "datapool_id": "1068dae2-e599-499b-9fe8-c48409ba1686",
+          "title": "Chefmonteur (a) oder Bauleitender <em>Monteur</em> Sanitär (a) 100%",
+          "preview": "Für unseren Standort in Bern suchen wir Sie als Chefmonteur (a) oder Bauleitender Monteur Sanitär (a) 100%",
+          "company_name": "Engie Services AG",
+          "company_id": "10229",
+          "education_ids": [],
+          "language_skills": [],
+          "work_experience": [],
+          "publication_date": "2021-11-15T03:00:00+01:00",
+          "initial_publication_date": "2021-11-14T06:00:00+01:00",
+          "place": "Bern",
+          "company_logo_file": "124x44.png",
+          "company_segmentation": "gu",
+          "employment_position_ids": [
+              3
+          ],
+          "employment_grades": [
+              100
+          ],
+          "employment_type_ids": [
+              "5"
+          ],
+          "benefit_ids": [],
+          "source_platform_id": 27598,
+          "offer_id": 37,
+          "is_active": true,
+          "metadata": {
+              "matching_indicator": {
+                  "job_matchable": false,
+                  "cv_matchable": false
+              }
+          },
+          "coordinates": {
+              "lon": 7.45758,
+              "lat": 46.9553
+          },
+          "is_paid": true,
+          "source_hostname": "refline.ch",
+          "images": [
+              {
+                  "type": "png",
+                  "context": "logo",
+                  "url": "https://media.jobs.ch/images/84fe0ef7-8136-436e-91a8-75675e39f9fa/124x44.png",
+                  "updated": "2021-11-17T04:06:44+01:00",
+                  "file_name": "124x44.png"
+              }
+          ]
+      }
+  ],
+  "total_hits": 144,
+  "hash": "209537e75875683627f2c6a75bb4e8b1",
+  "facets": {
+      "industry_ids": {
+          "2": 47,
+          "22": 30,
+          "6": 21,
+          "23": 14,
+          "12": 11,
+          "8": 8,
+          "11": 5,
+          "0": 3,
+          "7": 2,
+          "13": 2,
+          "18": 1
+      },
+      "employment_type_ids": {
+          "5": 143,
+          "6": 13,
+          "1": 5,
+          "3": 1
+      },
+      "employment_grades": {
+          "100": 142,
+          "90": 14,
+          "95": 13,
+          "80": 12,
+          "85": 12,
+          "30": 1,
+          "35": 1,
+          "40": 1,
+          "45": 1,
+          "50": 1,
+          "70": 1,
+          "75": 1
+      },
+      "benefit_ids": [],
+      "region_ids": {
+          "2": 845,
+          "3": 284,
+          "7": 189,
+          "11": 165,
+          "13": 157,
+          "15": 153,
+          "12": 146,
+          "10": 131,
+          "9": 67,
+          "19": 65,
+          "14": 48,
+          "8": 44,
+          "20": 41,
+          "23": 41,
+          "25": 41,
+          "18": 40,
+          "22": 37,
+          "6": 36,
+          "24": 33,
+          "21": 28,
+          "16": 14,
+          "17": 14,
+          "4": 6,
+          "5": 3
+      },
+      "employment_position_ids": {
+          "2": 105,
+          "3": 30,
+          "1": 11
+      },
+      "company_segments": {
+          "kmu": 121,
+          "gu": 17,
+          "pdl": 6
+      },
+      "language_skills": {
+          "de": 27,
+          "fr": 9,
+          "en": 4,
+          "it": 1,
+          "missing": 115
+      },
+      "source_platform_id": {
+          "13": 101,
+          "27598": 21,
+          "3": 16,
+          "37414": 3,
+          "52606": 3
+      },
+      "category_ids": {
+          "98": 124,
+          "110": 87,
+          "215": 55,
+          "109": 21,
+          "111": 18,
+          "216": 14,
+          "97": 13,
+          "108": 12,
+          "200": 11,
+          "220": 11,
+          "105": 7,
+          "193": 6,
+          "209": 6,
+          "100": 5,
+          "191": 5,
+          "201": 5,
+          "163": 4,
+          "195": 4,
+          "206": 4,
+          "210": 4,
+          "212": 4,
+          "219": 3,
+          "225": 3,
+          "121": 2,
+          "162": 2,
+          "196": 2,
+          "207": 2,
+          "102": 1,
+          "104": 1,
+          "118": 1,
+          "124": 1,
+          "125": 1,
+          "146": 1,
+          "157": 1,
+          "166": 1,
+          "192": 1,
+          "203": 1,
+          "217": 1
+      }
+  },
+  "aggregations": {
+      "industry_ids": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 2,
+                      "doc_count": 47
+                  },
+                  {
+                      "key": 22,
+                      "doc_count": 30
+                  },
+                  {
+                      "key": 6,
+                      "doc_count": 21
+                  },
+                  {
+                      "key": 23,
+                      "doc_count": 14
+                  },
+                  {
+                      "key": 12,
+                      "doc_count": 11
+                  },
+                  {
+                      "key": 8,
+                      "doc_count": 8
+                  },
+                  {
+                      "key": 11,
+                      "doc_count": 5
+                  },
+                  {
+                      "key": 0,
+                      "doc_count": 3
+                  },
+                  {
+                      "key": 7,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 13,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 18,
+                      "doc_count": 1
+                  }
+              ]
+          }
+      },
+      "employment_type_ids": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 5,
+                      "doc_count": 143
+                  },
+                  {
+                      "key": 6,
+                      "doc_count": 13
+                  },
+                  {
+                      "key": 1,
+                      "doc_count": 5
+                  },
+                  {
+                      "key": 3,
+                      "doc_count": 1
+                  }
+              ]
+          }
+      },
+      "employment_grades": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 100,
+                      "doc_count": 142
+                  },
+                  {
+                      "key": 90,
+                      "doc_count": 14
+                  },
+                  {
+                      "key": 95,
+                      "doc_count": 13
+                  },
+                  {
+                      "key": 80,
+                      "doc_count": 12
+                  },
+                  {
+                      "key": 85,
+                      "doc_count": 12
+                  },
+                  {
+                      "key": 30,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 35,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 40,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 45,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 50,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 70,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 75,
+                      "doc_count": 1
+                  }
+              ]
+          }
+      },
+      "benefit_ids": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": []
+          }
+      },
+      "region_ids": {
+          "meta": [],
+          "doc_count": 1183,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 2,
+                      "doc_count": 845
+                  },
+                  {
+                      "key": 3,
+                      "doc_count": 284
+                  },
+                  {
+                      "key": 7,
+                      "doc_count": 189
+                  },
+                  {
+                      "key": 11,
+                      "doc_count": 165
+                  },
+                  {
+                      "key": 13,
+                      "doc_count": 157
+                  },
+                  {
+                      "key": 15,
+                      "doc_count": 153
+                  },
+                  {
+                      "key": 12,
+                      "doc_count": 146
+                  },
+                  {
+                      "key": 10,
+                      "doc_count": 131
+                  },
+                  {
+                      "key": 9,
+                      "doc_count": 67
+                  },
+                  {
+                      "key": 19,
+                      "doc_count": 65
+                  },
+                  {
+                      "key": 14,
+                      "doc_count": 48
+                  },
+                  {
+                      "key": 8,
+                      "doc_count": 44
+                  },
+                  {
+                      "key": 20,
+                      "doc_count": 41
+                  },
+                  {
+                      "key": 23,
+                      "doc_count": 41
+                  },
+                  {
+                      "key": 25,
+                      "doc_count": 41
+                  },
+                  {
+                      "key": 18,
+                      "doc_count": 40
+                  },
+                  {
+                      "key": 22,
+                      "doc_count": 37
+                  },
+                  {
+                      "key": 6,
+                      "doc_count": 36
+                  },
+                  {
+                      "key": 24,
+                      "doc_count": 33
+                  },
+                  {
+                      "key": 21,
+                      "doc_count": 28
+                  },
+                  {
+                      "key": 16,
+                      "doc_count": 14
+                  },
+                  {
+                      "key": 17,
+                      "doc_count": 14
+                  },
+                  {
+                      "key": 4,
+                      "doc_count": 6
+                  },
+                  {
+                      "key": 5,
+                      "doc_count": 3
+                  }
+              ]
+          }
+      },
+      "employment_position_ids": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 2,
+                      "doc_count": 105
+                  },
+                  {
+                      "key": 3,
+                      "doc_count": 30
+                  },
+                  {
+                      "key": 1,
+                      "doc_count": 11
+                  }
+              ]
+          }
+      },
+      "company_segments": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": "kmu",
+                      "doc_count": 121
+                  },
+                  {
+                      "key": "gu",
+                      "doc_count": 17
+                  },
+                  {
+                      "key": "pdl",
+                      "doc_count": 6
+                  }
+              ]
+          }
+      },
+      "language_skills": {
+          "doc_count": 144,
+          "inner": {
+              "doc_count": 41,
+              "result": {
+                  "doc_count_error_upper_bound": 0,
+                  "sum_other_doc_count": 0,
+                  "buckets": [
+                      {
+                          "key": "de",
+                          "doc_count": 27
+                      },
+                      {
+                          "key": "fr",
+                          "doc_count": 9
+                      },
+                      {
+                          "key": "en",
+                          "doc_count": 4
+                      },
+                      {
+                          "key": "it",
+                          "doc_count": 1
+                      }
+                  ]
+              }
+          }
+      },
+      "source_platform_id": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 13,
+                      "doc_count": 101
+                  },
+                  {
+                      "key": 27598,
+                      "doc_count": 21
+                  },
+                  {
+                      "key": 3,
+                      "doc_count": 16
+                  },
+                  {
+                      "key": 37414,
+                      "doc_count": 3
+                  },
+                  {
+                      "key": 52606,
+                      "doc_count": 3
+                  }
+              ]
+          }
+      },
+      "missing_language_skills": {
+          "doc_count": 115
+      },
+      "paid": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 0,
+                      "key_as_string": "false",
+                      "doc_count": 105
+                  },
+                  {
+                      "key": 1,
+                      "key_as_string": "true",
+                      "doc_count": 39
+                  }
+              ]
+          }
+      },
+      "place": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 50,
+              "buckets": [
+                  {
+                      "key": "Bern",
+                      "doc_count": 25
+                  },
+                  {
+                      "key": "Wyssachen",
+                      "doc_count": 7
+                  },
+                  {
+                      "key": "Biel/Bienne",
+                      "doc_count": 5
+                  },
+                  {
+                      "key": "Lyss",
+                      "doc_count": 5
+                  },
+                  {
+                      "key": "Urtenen-Schönbühl",
+                      "doc_count": 5
+                  },
+                  {
+                      "key": "Burgdorf",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Hondrich",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Langnau im Emmental",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Liebefeld",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Uetendorf",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Gümligen",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Huttwil",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Kanton Bern",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Köniz",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Ostermundigen",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Prêles",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Zollikofen",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Aarberg",
+                      "doc_count": 2
+                  },
+                  {
+                      "key": "Gwatt (Thun)",
+                      "doc_count": 2
+                  },
+                  {
+                      "key": "Madiswil",
+                      "doc_count": 2
+                  }
+              ]
+          }
+      },
+      "category_ids": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": 98,
+                      "doc_count": 124
+                  },
+                  {
+                      "key": 110,
+                      "doc_count": 87
+                  },
+                  {
+                      "key": 215,
+                      "doc_count": 55
+                  },
+                  {
+                      "key": 109,
+                      "doc_count": 21
+                  },
+                  {
+                      "key": 111,
+                      "doc_count": 18
+                  },
+                  {
+                      "key": 216,
+                      "doc_count": 14
+                  },
+                  {
+                      "key": 97,
+                      "doc_count": 13
+                  },
+                  {
+                      "key": 108,
+                      "doc_count": 12
+                  },
+                  {
+                      "key": 200,
+                      "doc_count": 11
+                  },
+                  {
+                      "key": 220,
+                      "doc_count": 11
+                  },
+                  {
+                      "key": 105,
+                      "doc_count": 7
+                  },
+                  {
+                      "key": 193,
+                      "doc_count": 6
+                  },
+                  {
+                      "key": 209,
+                      "doc_count": 6
+                  },
+                  {
+                      "key": 100,
+                      "doc_count": 5
+                  },
+                  {
+                      "key": 191,
+                      "doc_count": 5
+                  },
+                  {
+                      "key": 201,
+                      "doc_count": 5
+                  },
+                  {
+                      "key": 163,
+                      "doc_count": 4
+                  },
+                  {
+                      "key": 195,
+                      "doc_count": 4
+                  },
+                  {
+                      "key": 206,
+                      "doc_count": 4
+                  },
+                  {
+                      "key": 210,
+                      "doc_count": 4
+                  },
+                  {
+                      "key": 212,
+                      "doc_count": 4
+                  },
+                  {
+                      "key": 219,
+                      "doc_count": 3
+                  },
+                  {
+                      "key": 225,
+                      "doc_count": 3
+                  },
+                  {
+                      "key": 121,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 162,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 196,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 207,
+                      "doc_count": 2
+                  },
+                  {
+                      "key": 102,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 104,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 118,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 124,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 125,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 146,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 157,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 166,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 192,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 203,
+                      "doc_count": 1
+                  },
+                  {
+                      "key": 217,
+                      "doc_count": 1
+                  }
+              ]
+          }
+      },
+      "synonym_collection": {
+          "doc_count": 144,
+          "result": {
+              "doc_count_error_upper_bound": 0,
+              "sum_other_doc_count": 0,
+              "buckets": [
+                  {
+                      "key": "Monteur",
+                      "doc_count": 16
+                  },
+                  {
+                      "key": "Bauleiter",
+                      "doc_count": 5
+                  },
+                  {
+                      "key": "Schreiner",
+                      "doc_count": 4
+                  },
+                  {
+                      "key": "Anlageninstallateur",
+                      "doc_count": 3
+                  },
+                  {
+                      "key": "Servicetechniker",
+                      "doc_count": 2
+                  },
+                  {
+                      "key": "Elektriker",
+                      "doc_count": 2
+                  },
+                  {
+                      "key": "HLK Ingenieur",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Montageleiter",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Verkaufsberater",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Verkaufskoordinator",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Metallbauschlosser",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Netzelektriker",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Servicemonteur",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Lehrling",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Mechaniker",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Sachbearbeiterin",
+                      "doc_count": 1
+                  },
+                  {
+                      "key": "Heizungsinstallateur",
+                      "doc_count": 1
+                  }
+              ]
+          }
+      }
+  },
+  "metadata": {
+      "search_geo_shapes": [
+          {
+              "id": "C72893F5-91AE-498C-AE09-4B4B2F10A8D7",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Bern"
+              },
+              "type": "county"
+          },
+          {
+              "id": "037EB98A-64AE-4631-8550-EE1E2FBE6F2B",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3013",
+              "type": "zip"
+          },
+          {
+              "id": "276F586C-6893-4048-8A73-D453E491311B",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3011",
+              "type": "zip"
+          },
+          {
+              "id": "9188D539-D315-4B4F-B870-9DFFB9FBA4D9",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3019",
+              "type": "zip"
+          },
+          {
+              "id": "9E9446A7-FB2D-4334-AEAE-D8D2F31046D2",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3027",
+              "type": "zip"
+          },
+          {
+              "id": "A52A5D6B-145E-4C63-8D26-2A6EFC322C9C",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3007",
+              "type": "zip"
+          },
+          {
+              "id": "C67F9F70-9979-4B66-AAAA-C51C519F113D",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3010",
+              "type": "zip"
+          },
+          {
+              "id": "DDD56CEF-0E61-4EED-85ED-F67A459C93ED",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "BE",
+              "type": "canton"
+          },
+          {
+              "id": "BAF6CF5D-3ED7-4D4C-9032-00D78AC20144",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3006",
+              "type": "zip"
+          },
+          {
+              "id": "1ADD2084-6057-4457-B17D-E9CA1CAD8C0E",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3012",
+              "type": "zip"
+          },
+          {
+              "id": "8B37FF1F-D5BA-4350-98C7-BCEC47BF41D2",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3004",
+              "type": "zip"
+          },
+          {
+              "id": "F293CE1E-1B9D-4543-9DD7-945CBCF654F8",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3011",
+              "type": "zip"
+          },
+          {
+              "id": "F2B674F0-A2D6-4803-BA9D-19E40EF13F99",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3015",
+              "type": "zip"
+          },
+          {
+              "id": "21AF4F16-8B49-4A60-9CF2-98FCB31D6D5E",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3014",
+              "type": "zip"
+          },
+          {
+              "id": "8FDD1FDC-42CB-47A3-B272-331D274F903E",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3020",
+              "type": "zip"
+          },
+          {
+              "id": "C01F5293-03E3-4735-A786-C6BF24881F00",
+              "name": {
+                  "de": "Bern",
+                  "en": "Bern",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "code": "3008",
+              "type": "zip"
+          },
+          {
+              "id": "079C0F5D-60E3-41C0-9533-4D14EACCCF8D",
+              "name": {
+                  "de": "Spiegel b. Bern",
+                  "en": "Spiegel b. Bern",
+                  "it": "Spiegel b. Bern",
+                  "rm": "Spiegel b. Bern",
+                  "fr": "Spiegel b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "0817D5E5-8828-45DA-A909-6E91D2500B08",
+              "name": {
+                  "de": "Niederwangen b. Bern",
+                  "en": "Niederwangen b. Bern",
+                  "it": "Niederwangen b. Bern",
+                  "rm": "Niederwangen b. Bern",
+                  "fr": "Niederwangen b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "5BC89CC6-1AD9-4A39-9351-570D307D69E6",
+              "name": {
+                  "de": "Wohlen bei Bern",
+                  "en": "Wohlen bei Bern",
+                  "it": "Wohlen bei Bern",
+                  "rm": "Wohlen bei Bern",
+                  "fr": "Wohlen bei Bern"
+              },
+              "type": "county"
+          },
+          {
+              "id": "7C29FF9D-DEBF-4907-8688-EC9436C0C17C",
+              "name": {
+                  "de": "Wohlen b. Bern",
+                  "en": "Wohlen b. Bern",
+                  "it": "Wohlen b. Bern",
+                  "rm": "Wohlen b. Bern",
+                  "fr": "Wohlen b. Bern"
+              },
+              "code": "3033",
+              "type": "zip"
+          },
+          {
+              "id": "E5754CE1-0ADA-49A0-AC15-D290B0C9C179",
+              "name": {
+                  "de": "Bremgarten b. Bern",
+                  "en": "Bremgarten b. Bern",
+                  "it": "Bremgarten b. Bern",
+                  "rm": "Bremgarten b. Bern",
+                  "fr": "Bremgarten b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "312E3007-0025-47AF-BE33-7FB9C8FCBE15",
+              "name": {
+                  "de": "Muri b. Bern",
+                  "en": "Muri b. Bern",
+                  "it": "Muri b. Bern",
+                  "rm": "Muri b. Bern",
+                  "fr": "Muri b. Bern"
+              },
+              "code": "3074",
+              "type": "zip"
+          },
+          {
+              "id": "EAF301F0-6D7D-43BD-A8CF-0F071A941B09",
+              "name": {
+                  "de": "Bremgarten bei Bern",
+                  "en": "Bremgarten bei Bern",
+                  "it": "Bremgarten bei Bern",
+                  "rm": "Bremgarten bei Bern",
+                  "fr": "Bremgarten bei Bern"
+              },
+              "type": "county"
+          },
+          {
+              "id": "4F58E7E3-5101-4FF1-BFC3-F5A75ABD4642",
+              "name": {
+                  "de": "Bremgarten b. Bern",
+                  "en": "Bremgarten b. Bern",
+                  "it": "Bremgarten b. Bern",
+                  "rm": "Bremgarten b. Bern",
+                  "fr": "Bremgarten b. Bern"
+              },
+              "code": "3047",
+              "type": "zip"
+          },
+          {
+              "id": "BED58231-A34B-48F0-BC0B-C56610564F8D",
+              "name": {
+                  "de": "Oberwangen b. Bern",
+                  "en": "Oberwangen b. Bern",
+                  "it": "Oberwangen b. Bern",
+                  "rm": "Oberwangen b. Bern",
+                  "fr": "Oberwangen b. Bern"
+              },
+              "code": "3173",
+              "type": "zip"
+          },
+          {
+              "id": "24611EA2-BB7A-4AE6-B105-822E524076BD",
+              "name": {
+                  "de": "Allmendingen b. Bern",
+                  "en": "Allmendingen b. Bern",
+                  "it": "Allmendingen b. Bern",
+                  "rm": "Allmendingen b. Bern",
+                  "fr": "Allmendingen b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "AA6F0953-2297-43DE-A293-CE965794E291",
+              "name": {
+                  "de": "Muri bei Bern",
+                  "en": "Muri bei Bern",
+                  "it": "Muri bei Bern",
+                  "rm": "Muri bei Bern",
+                  "fr": "Muri bei Bern"
+              },
+              "type": "county"
+          },
+          {
+              "id": "D477764B-5845-4839-99DC-A6D41B45465C",
+              "name": {
+                  "de": "Niederwangen b. Bern",
+                  "en": "Niederwangen b. Bern",
+                  "it": "Niederwangen b. Bern",
+                  "rm": "Niederwangen b. Bern",
+                  "fr": "Niederwangen b. Bern"
+              },
+              "code": "3172",
+              "type": "zip"
+          },
+          {
+              "id": "E46396B9-6495-4C2E-941F-EB567627C043",
+              "name": {
+                  "de": "Allmendingen b. Bern",
+                  "en": "Allmendingen b. Bern",
+                  "it": "Allmendingen b. Bern",
+                  "rm": "Allmendingen b. Bern",
+                  "fr": "Allmendingen b. Bern"
+              },
+              "code": "3112",
+              "type": "zip"
+          },
+          {
+              "id": "034C7B16-62AF-4CD3-8B28-B39EDB6B845C",
+              "name": {
+                  "de": "Oberwangen b. Bern",
+                  "en": "Oberwangen b. Bern",
+                  "it": "Oberwangen b. Bern",
+                  "rm": "Oberwangen b. Bern",
+                  "fr": "Oberwangen b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "BD2839B9-F76B-44D4-B749-D56A9EF2C799",
+              "name": {
+                  "de": "Wohlen b. Bern",
+                  "en": "Wohlen b. Bern",
+                  "it": "Wohlen b. Bern",
+                  "rm": "Wohlen b. Bern",
+                  "fr": "Wohlen b. Bern"
+              },
+              "type": "city"
+          },
+          {
+              "id": "6BD1A622-A9DB-4E20-BCDB-E8360317CF94",
+              "name": {
+                  "de": "Bern",
+                  "en": "Berne",
+                  "it": "Bern",
+                  "rm": "Bern",
+                  "fr": "Berne"
+              },
+              "type": "city"
+          }
+      ]
+  },
+  "normalized_search_query": "location=Bern&query=Monteur"
+}
