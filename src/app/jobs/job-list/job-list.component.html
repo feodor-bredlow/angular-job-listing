@@ -1,4 +1,4 @@
-<mat-card *ngFor="let job of jobData['documents']"  >
+<mat-card *ngFor="let job of jobData['documents']" (click)="viewDetails()" >
   <mat-card-title-group>
     <mat-card-title>
       <div [innerHTML]="job.title"></div>
@@ -6,8 +6,7 @@
     <mat-card-subtitle>{{job.company_name}}</mat-card-subtitle>
     <img mat-card-sm-image src={{job.images[0].url}} >
   </mat-card-title-group>
-
-  <mat-card-content routerLink="www.facebook.com">
+  <mat-card-content >
     {{job.place}}
   </mat-card-content>
 </mat-card>

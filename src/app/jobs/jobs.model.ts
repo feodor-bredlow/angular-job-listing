@@ -18,4 +18,7 @@ export type JobsApi = {
   documents: Document[];
 }
 
-
+export type JobDetailApi = {
+  template_profession: string;
+  template_text: string;
+}
