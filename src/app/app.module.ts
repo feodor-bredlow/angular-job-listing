@@ -7,6 +7,7 @@ import { MatExpansionModule } from "@angular/material/expansion"
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { JobListComponent } from './jobs/job-list/job-list.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { JobListComponent } from './jobs/job-list/job-list.component';
     BrowserModule,
     BrowserAnimationsModule,
     MatCardModule,
-    MatExpansionModule
+    MatExpansionModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
