@@ -1,0 +1,31 @@
+<mat-toolbar color="primary">
+  <div class="toolbar-content">
+    <form #jobSearchForm="ngForm">
+      <mat-form-field class="first-field">
+        <input
+          matInput
+          ngModel
+          name="jobInput"
+          type="text"
+          placeholder="Berufsbezeichnugn"
+        >
+      </mat-form-field>
+      <mat-form-field class="second-field" >
+        <input
+          matInput
+          ngModel
+          name="placeInput"
+          type="text"
+          placeholder="Ort"
+        >
+      </mat-form-field>
+    </form>
+    <button
+      (click)="onSubmit(jobSearchForm)"
+      mat-button
+      type="submit"
+      >
+      <mat-icon>search</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>

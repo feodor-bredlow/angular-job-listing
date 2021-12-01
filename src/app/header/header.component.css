@@ -1,0 +1,27 @@
+mat-toolbar {
+  height: 80px;
+}
+
+.toolbar-content {
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-around;
+}
+
+mat-form-field {
+  width: 300px;
+}
+
+.first-field {
+  margin-right: 3%;
+}
+
+.second-field {
+  margin-left: 3%;
+}
+
+mat-icon {
+  transform: scale(1.2);
+}
