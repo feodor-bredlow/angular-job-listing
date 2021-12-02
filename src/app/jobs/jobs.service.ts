@@ -41,6 +41,7 @@ export class JobsService {
 
   requestJobDetail(jobId: number){
     console.log("job detail request");
+    this.jobDetail = {};
     this.http.get(`http://localhost:3000/api/getJobDetails?jobId=${jobId}`)
       .subscribe((jobDetail)=>{
         this.jobDetail = jobDetail;
