@@ -15,9 +15,12 @@ export class JobListComponent implements OnInit, OnDestroy  {
   constructor(public dialog: MatDialog, public jobsService: JobsService) {}
 
   jobData: JobsApi = {};
+  initialRequestSent: boolean ;
   private jobsSub: Subscription;
+  private initailRequestSub: Subscription;
 
   viewDetails(jobId){
+    console.log('from list', this.initialRequestSent);
     this.jobsService.requestJobDetail(jobId);
     this.dialog.open(JobDetailDialog);
   }
@@ -27,10 +30,14 @@ export class JobListComponent implements OnInit, OnDestroy  {
     this.jobsSub = this.jobsService.getJobsUpdateListener().subscribe((jobs: JobsApi)=>{
       this.jobData = jobs;
     });
+    this.initailRequestSub = this.jobsService.getInitialRequesetUpdateListener().subscribe((initialRequested: boolean) =>{
+      this.initialRequestSent = initialRequested;
+    })
   }
 
   ngOnDestroy(){
     this.jobsSub.unsubscribe();
+    this.initailRequestSub.unsubscribe();
   }
 
 
