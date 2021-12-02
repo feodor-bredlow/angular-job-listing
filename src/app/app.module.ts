@@ -1,6 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from "@angular/forms";
+
+import { HttpClientModule } from '@angular/common/http';
+
 import { MatCardModule } from "@angular/material/card";
 import { MatExpansionModule } from "@angular/material/expansion"
 import { MatDialogModule } from '@angular/material/dialog';
@@ -32,7 +35,8 @@ import { HeaderComponent } from './header/header.component';
     MatToolbarModule,
     MatInputModule,
     MatButtonModule,
-    MatIconModule
+    MatIconModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
