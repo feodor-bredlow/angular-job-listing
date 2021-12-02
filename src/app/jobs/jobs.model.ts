@@ -13,9 +13,9 @@ export type Document = {
 }
 
 export type JobsApi = {
-  start: number;
-  rows: number;
-  documents: Document[];
+  start?: number;
+  rows?: number;
+  documents?: Document[];
 }
 
 export type JobDetailApi = {

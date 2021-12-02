@@ -1,13 +1,13 @@
 const https = require("https");
 
-const getJobListExternal = () => {
+const getExternalData = (extPath) => {
   // return new Promise(function (resolve, reject) {
 
   return new Promise(function (resolve, reject) {
     const options = {
       hostname: "jobs.ch",
       port: 443,
-      path: "https://www.jobs.ch/api/v1/public/search?location=Bern&query=Monteur&rows=20",
+      path: extPath,
       method: "GET",
     };
 
@@ -32,4 +32,4 @@ const getJobListExternal = () => {
   });
 };
 
-module.exports = getJobListExternal;
+module.exports = getExternalData;

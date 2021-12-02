@@ -1,7 +1,7 @@
 const express = require("express");
 const simpleJobs = require("./job-list-simplified-copy");
 const jobDetail = require("./job-data-simplified");
-const getJobListExternal = require("./get-job-list-external");
+const getExternalData = require("./external-requests/get-external-data");
 
 const app = express();
 
@@ -10,20 +10,24 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get("/api/getJobs", (req, res) => {
-  const jobs = simpleJobs;
-  res.status(200).json(jobs);
-});
+app.get("/api/getJobs", async (req, res) => {
+  const jobParm = req.query.job ? req.query.job : "";
+  const placeParam = req.query.place ? req.query.place : "";
 
-app.get("/api/getJobsReal", async (req, res) => {
-  const dataTest = await getJobListExternal();
-
+  const dataTest = await getExternalData(
+    `https://www.jobs.ch/api/v1/public/search?location=${placeParam}&query=${jobParm}&rows=20`
+  );
   res.status(200).json(JSON.parse(dataTest.toString("utf8")));
 });
 
-app.get("/api/getJobDetails", (req, res) => {
-  const jobs = jobDetail;
-  res.status(200).json(jobDetail);
+app.get("/api/getJobDetails", async (req, res) => {
+  const jobIdParam = "10853798";
+
+  const dataTest = await getExternalData(
+    `https://www.jobs.ch/api/v1/public/search/job/${jobIdParam}`
+  );
+
+  res.status(200).json(JSON.parse(dataTest.toString("utf8")));
 });
 
 module.exports = app;
