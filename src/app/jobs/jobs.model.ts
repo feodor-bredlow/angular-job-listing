@@ -10,6 +10,7 @@ export type Document = {
   publication_date: string;
   images: {url: string}[];
   preview: string;
+  job_id: number;
 }
 
 export type JobsApi = {
@@ -19,6 +20,6 @@ export type JobsApi = {
 }
 
 export type JobDetailApi = {
-  template_profession: string;
-  template_text: string;
+  template_profession?: string;
+  template_text?: string;
 }

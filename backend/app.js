@@ -21,7 +21,7 @@ app.get("/api/getJobs", async (req, res) => {
 });
 
 app.get("/api/getJobDetails", async (req, res) => {
-  const jobIdParam = "10853798";
+  const jobIdParam = req.query.jobId;
 
   const dataTest = await getExternalData(
     `https://www.jobs.ch/api/v1/public/search/job/${jobIdParam}`

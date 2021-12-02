@@ -1,4 +1,4 @@
-<mat-card *ngFor="let job of jobData['documents']" (click)="viewDetails()" >
+<mat-card *ngFor="let job of jobData['documents']" (click)="viewDetails(job.job_id)" >
   <mat-card-title-group>
     <mat-card-title>
       <div [innerHTML]="job.title"></div>
