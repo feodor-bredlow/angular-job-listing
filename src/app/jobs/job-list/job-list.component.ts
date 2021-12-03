@@ -20,7 +20,6 @@ export class JobListComponent implements OnInit, OnDestroy  {
   private initailRequestSub: Subscription;
 
   viewDetails(jobId){
-    console.log('from list', this.initialRequestSent);
     this.jobsService.requestJobDetail(jobId);
     this.dialog.open(JobDetailDialog);
   }

@@ -43,13 +43,11 @@ export class JobsService {
   requestJobs(job: string, place: string){
     this.initialRequestSentUpdated.next(true);
     this.jobsUpdated.next({});
-    console.log("job list request");
     this.jobs = {};
     this.initialRequestSent = true;
 
     this.http.get(`http://localhost:3000/api/getJobs?place=${place}&job=${job}`)
       .subscribe((jobs)=>{
-        console.log(jobs)
         this.jobs = jobs;
         this.jobsUpdated.next({...this.jobs});
         this.initialRequestSentUpdated.next(false);
@@ -57,7 +55,6 @@ export class JobsService {
   }
 
   requestJobDetail(jobId: number){
-    console.log("job detail request");
     this.jobDetail = {};
     this.http.get(`http://localhost:3000/api/getJobDetails?jobId=${jobId}`)
       .subscribe((jobDetail)=>{
